@@ -59,7 +59,7 @@ If you need help with a particular step, see the <a href="/docs/install/install-
 <p>Type <code>go version</code>. If Go is not installed or your version is less than 1.18.0, <a href="https://go.dev/doc/install">install the latest version of Go</a></p>
 </li>
 <li>
-<p>Install or upgrade the build dependancies: <em>git</em>, <em>cmake</em>, <em>ninja</em>, <em>curl</em>, <em>python</em>, <em>clang-format</em>, <em>jq</em></p>
+<p>Install or upgrade the build dependencies: <em>git</em>, <em>cmake</em>, <em>ninja</em>, <em>curl</em>, <em>python</em>, <em>clang-format</em>, <em>jq</em></p>
 <ul>
 <li><a href="https://trueblocks.io/docs/install/install-troubleshooting/#installing-build-tools">Install dependencies</a>
 <br><br></li>
@@ -127,7 +127,7 @@ apiKey = &quot;&lt;your Etherscan api key&gt;&quot;   # optional
 }
 </code></pre>
 <ul>
-<li>Assuming the above works, you&rsquo;re system is properly installed. If not, see the <a href="/docs/install/install-troubleshooting">TroubleShooting section</a>.</li>
+<li>Assuming the above works, your system is properly installed. If not, see the <a href="/docs/install/install-troubleshooting">TroubleShooting section</a>.</li>
 </ul>
 <h2 id="more-information">More information</h2>
 <p>There&rsquo;s a lot left to learn. Have fun:</p>
