@@ -69,7 +69,7 @@ If you need help with a particular step, see the <a href="/docs/install/install-
 <p>Clone the repo and compile the executable:</p>
 </li>
 </ul>
-<pre><code class="language-shell">git clone --depth 1 https://github.com/TrueBlocks/trueblocks-core --branch master --single-branch
+<pre><code class="language-shell">git clone --depth 1 --branch master https://github.com/TrueBlocks/trueblocks-core
 cd trueblocks-core
 mkdir build &amp;&amp; cd build
 cmake ../src
